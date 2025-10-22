@@ -46,7 +46,7 @@ Fun fact: By the end of my first year, I had three internships under my belt —
 ---
 
 # Education & Research:
-**B.Tech in Computer Science with Specialization in Artificial Intelligence** (CGPA: 8.7)  
+**B.Tech in Computer Science with Specialization in Artificial Intelligence** 
 *Indira Gandhi Delhi Technological University for Women* | Aug 2021 - Present
 
 ---
