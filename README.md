@@ -95,6 +95,12 @@ Fun fact: By the end of my first year, I had three internships under my belt —
 ### GitHub Activity Graph
 [![Anwesa's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=anwesa-mondal&theme=react-dark)](https://github.com/anwesa-mondal)
 
+### Dynamic Skills Showcase
+![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=22&pause=1000&color=36BCF7&background=00000000&center=true&vCenter=true&width=600&lines=AI%2FML+Researcher+%F0%9F%A7%A0;Full+Stack+Developer+%F0%9F%92%BB;Data+Science+Enthusiast+%F0%9F%93%8A;Problem+Solver+%E2%9C%A8;Carnegie+Mellon+Research+Intern+%F0%9F%8E%93)
+
+### GitHub Metrics Dashboard
+![GitHub Metrics](https://github.com/anwesa-mondal/anwesa-mondal/blob/main/github-metrics.svg)
+
 ---
 
 <h1 align="center">Connect with me:</h1>
