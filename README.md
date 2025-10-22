@@ -10,7 +10,7 @@
 
 *"Transforming ideas into intelligent solutions through code and creativity."*
 
-**Computer Science Student** at **Indira Gandhi Delhi Technological University for Women** (CGPA: 8.7)  
+**Computer Science Student** at **Indira Gandhi Delhi Technological University for Women** (2nd Year)  
 **Research Focus**: Machine Learning, Deep Learning, Computer Vision, and AI-powered Systems  
 Currently exploring the frontiers of **Artificial Intelligence** and **Data Science**
 
