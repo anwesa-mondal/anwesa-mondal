@@ -18,7 +18,7 @@ Currently exploring the frontiers of **Artificial Intelligence** and **Data Scie
 - **AI/ML Expertise**: Deep Learning, Computer Vision, NLP, and Generative AI  
 - **Full-Stack Development**: Modern web technologies and scalable systems  
 - **Data Science**: Advanced analytics, predictive modeling, and statistical analysis  
--  **Research Experience**: Published work in AI conferences, research internships at NIT Rourkela & CMU and Harvard Medical School
+-  **Research Experience**: Published work in AI conferences, research internships at premier insititutes across the world
 
 📫 Contact: [LinkedIn](https://www.linkedin.com/in/anwesa-mondal-3283362b7/) | [Email](mailto:mondalanwesa0@gmail.com) | [Portfolio](https://portfolio-anwesa.vercel.app/) | [GitHub](https://github.com/anwesa-mondal) 
 
