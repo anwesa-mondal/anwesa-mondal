@@ -82,7 +82,6 @@ Fun fact: By the end of my first year, I had three internships under my belt —
 
 
 
-### GitHub Contribution Snake 🐍
 <div align="center">
   <img src="https://raw.githubusercontent.com/anwesa-mondal/anwesa-mondal/output/snake.svg" alt="Snake animation" />
 </div>
@@ -114,3 +113,4 @@ Fun fact: By the end of my first year, I had three internships under my belt —
 
 ---
 [![](https://visitcount.itsvg.in/api?id=anwesa-mondal&icon=0&color=0)](https://visitcount.itsvg.in)
+
