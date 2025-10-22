@@ -100,10 +100,10 @@ Fun fact: By the end of my first year, I had three internships under my belt —
 <h1 align="center">Connect with me:</h1>
 
 <p align="center">
-<a href="https://www.linkedin.com/in/anwesa-mondal" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="anwesa-mondal" height="30" width="40" /></a>
-<a href="https://github.com/AnwesaMondal" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/github.svg" alt="AnwesaMondal" height="30" width="40" /></a>
-<a href="mailto:mondalanwesa09@gmail.com" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/gmail.svg" alt="mondalanwesa09@gmail.com" height="30" width="40" /></a>
-<a href="https://your-portfolio-link.com" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/globe.svg" alt="portfolio" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/anwesa-mondal-3283362b7/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="anwesa-mondal" height="30" width="40" /></a>
+<a href="https://github.com/anwesa-mondal" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/github.svg" alt="AnwesaMondal" height="30" width="40" /></a>
+<a href="mailto:mondalanwesa0@gmail.com" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/gmail.svg" alt="mondalanwesa09@gmail.com" height="30" width="40" /></a>
+<a href="https://portfolio-anwesa.vercel.app/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/globe.svg" alt="portfolio" height="30" width="40" /></a>
 </p>
 
 <br>
