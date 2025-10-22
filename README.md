@@ -51,21 +51,6 @@ Fun fact: By the end of my first year, I had three internships under my belt —
 
 ---
 
-# Research Experience:
-
-## Research Internship | NIT Rourkela
-**May 2025 - July 2025**
-- Designed a sophisticated model using Random Forest for sentiment degradation prediction in high-dimensional data
-- Achieved significant performance improvements using RMSE, MAF, and variance analysis on real-world multi-sensor time series
-
-## Research Internship | Carnegie Mellon University
-**June 2025 - Present**
-- Working on collaborative project between Carnegie Mellon University and Harvard Medical School
-- Developing brain Magnetic Resonance Imaging (MRI) surface registration using neural deformation field learning
-- Working under Dr. Taylor Zeng on advanced medical imaging analysis
-
----
-
 # Achievements & Recognition:
 
 **Winner - Industrial Ideation 2025** by Delhi Government  
