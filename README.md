@@ -92,18 +92,26 @@ Fun fact: By the end of my first year, I had three internships under my belt —
 ### Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
-### Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=anwesa-mondal&limit=5&theme=dark&combine_all_yearly_contributions=true)
+### GitHub Activity Graph
+[![Anwesa's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=anwesa-mondal&theme=react-dark)](https://github.com/anwesa-mondal)
 
 ---
 
 <h1 align="center">Connect with me:</h1>
 
 <p align="center">
-<a href="https://www.linkedin.com/in/anwesa-mondal-3283362b7/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="anwesa-mondal" height="30" width="40" /></a>
-<a href="https://github.com/anwesa-mondal" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/github.svg" alt="AnwesaMondal" height="30" width="40" /></a>
-<a href="mailto:mondalanwesa0@gmail.com" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/gmail.svg" alt="mondalanwesa09@gmail.com" height="30" width="40" /></a>
-<a href="https://portfolio-anwesa.vercel.app/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/globe.svg" alt="portfolio" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/anwesa-mondal-3283362b7/" target="blank">
+  <img align="center" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+</a>
+<a href="https://github.com/anwesa-mondal" target="blank">
+  <img align="center" src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+</a>
+<a href="mailto:mondalanwesa0@gmail.com" target="blank">
+  <img align="center" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
+</a>
+<a href="https://portfolio-anwesa.vercel.app/" target="blank">
+  <img align="center" src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=todoist&logoColor=white" alt="Portfolio" />
+</a>
 </p>
 
 <br>
