@@ -20,7 +20,7 @@ Currently exploring the frontiers of **Artificial Intelligence** and **Data Scie
 - **Data Science**: Advanced analytics, predictive modeling, and statistical analysis  
 -  **Research Experience**: Published work in AI conferences, research internships at NIT Rourkela & CMU and Harvard Medical School
 
-📫 Contact: [LinkedIn](https://www.linkedin.com/in/anwesa-mondal-3283362b7/) | [Email](mailto:mondalanwesa0@gmail.com) | [Portfolio](https://portfolio-anwesa.vercel.app/) | [GitHub](https://github.com/anwesa-mondal) | [Phone: +91-8929561536](tel:+918929561536)  
+📫 Contact: [LinkedIn](https://www.linkedin.com/in/anwesa-mondal-3283362b7/) | [Email](mailto:mondalanwesa0@gmail.com) | [Portfolio](https://portfolio-anwesa.vercel.app/) | [GitHub](https://github.com/anwesa-mondal) 
 
 Fun fact: By the end of my first year, I had three internships under my belt — and I built a complete Smart India Hackathon project alone in a single day!
 
@@ -46,23 +46,8 @@ Fun fact: By the end of my first year, I had three internships under my belt —
 ---
 
 # Education & Research:
-**B.Tech in Computer Science with Specialization in Artificial Intelligence** (CGPA: 8.7)  
+**B.Tech in Computer Science with Specialization in Artificial Intelligence** 
 *Indira Gandhi Delhi Technological University for Women* | Aug 2021 - Present
-
----
-
-# Research Experience:
-
-## Research Internship | NIT Rourkela
-**May 2025 - July 2025**
-- Designed a sophisticated model using Random Forest for sentiment degradation prediction in high-dimensional data
-- Achieved significant performance improvements using RMSE, MAF, and variance analysis on real-world multi-sensor time series
-
-## Research Internship | Carnegie Mellon University
-**June 2025 - Present**
-- Working on collaborative project between Carnegie Mellon University and Harvard Medical School
-- Developing brain Magnetic Resonance Imaging (MRI) surface registration using neural deformation field learning
-- Working under Dr. Taylor Zeng on advanced medical imaging analysis
 
 ---
 
