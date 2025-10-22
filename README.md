@@ -20,7 +20,7 @@ Currently exploring the frontiers of **Artificial Intelligence** and **Data Scie
 - **Data Science**: Advanced analytics, predictive modeling, and statistical analysis  
 -  **Research Experience**: Published work in AI conferences, research internships at NIT Rourkela & CMU and Harvard Medical School
 
-📫 Contact: [LinkedIn](https://www.linkedin.com/in/anwesa-mondal-3283362b7/) | [Email](mailto:mondalanwesa0@gmail.com) | [Portfolio](https://portfolio-anwesa.vercel.app/) | [GitHub](https://github.com/anwesa-mondal) | [Phone: +91-8929561536](tel:+918929561536)  
+📫 Contact: [LinkedIn](https://www.linkedin.com/in/anwesa-mondal-3283362b7/) | [Email](mailto:mondalanwesa0@gmail.com) | [Portfolio](https://portfolio-anwesa.vercel.app/) | [GitHub](https://github.com/anwesa-mondal) 
 
 Fun fact: By the end of my first year, I had three internships under my belt — and I built a complete Smart India Hackathon project alone in a single day!
 
