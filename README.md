@@ -1,6 +1,6 @@
 <h1 align="**What I bring to the table**  
-- **AI/ML Expertise**: Deep Learning, Computer Vision, NLP, and Generative AI  
-- **Full-Stack Development**: Modern web technologies and scalable systems  
+- **AI/ML Expertise**:  Machine Learning, Deep Learning, Computer Vision, NLP, Data Analysis, Artificial Intelligence, AI & Data Research
+- **Full-Stack Development**: Software Development, Backend Development(Python),Database Management Systems & SQL, RESTful API Development 
 - **Data Science**: Advanced analytics, predictive modeling, and statistical analysis  
 - **Research Experience**: Published work in AI conferences, research internships at NIT Rourkela & CMU  
 - **Achievements**: Industrial Ideation 2025 winner, 5-time hackathon finalist, government recognition">Hey there 👋, I'm Anwesa Mondal</h1>
@@ -15,8 +15,8 @@
 Currently exploring the frontiers of **Artificial Intelligence** and **Data Science**
 
 💫 **Skills and Expertise**  
-- **AI/ML Expertise**: Deep Learning, Computer Vision, NLP, and Generative AI  
-- **Full-Stack Development**: Modern web technologies and scalable systems  
+- **AI/ML Expertise**: Machine Learning, Deep Learning, Computer Vision, NLP, Data Analysis, Artificial Intelligence, AI & Data Research
+- **Full-Stack Development**: Software Development, Backend Development(Python),Database Management Systems & SQL, RESTful API Development
 - **Data Science**: Advanced analytics, predictive modeling, and statistical analysis  
 -  **Research Experience**: Published work in AI conferences, research internships at premier insititutes across the world
 
@@ -34,8 +34,6 @@ Fun fact: By the end of my first year, I had three internships under my belt —
 ## AI/ML & Data Science:
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white) ![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white) ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white) ![Keras](https://img.shields.io/badge/Keras-%23D00000.svg?style=for-the-badge&logo=Keras&logoColor=white) ![OpenCV](https://img.shields.io/badge/opencv-%23white.svg?style=for-the-badge&logo=opencv&logoColor=black) ![pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black)
 
-## Web Development:
-![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white) ![Flask](https://img.shields.io/badge/flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white) ![Streamlit](https://img.shields.io/badge/Streamlit-%23FE4B4B.svg?style=for-the-badge&logo=streamlit&logoColor=white)
 
 ## Databases & Tools:
 ![PostgreSQL](https://img.shields.io/badge/postgresql-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) 
