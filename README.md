@@ -54,9 +54,6 @@ Fun fact: By the end of my first year, I had three internships under my belt —
 
 **Winner - Industrial Ideation 2025** by Delhi Government  
 **5-time finalist** in national-level hackathons organized by government bodies and leading institutes  
-**Received funding** from top universities for enhancement learning, research, and development projects  
-
----
 
 # Publications:
 
