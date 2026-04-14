@@ -58,7 +58,7 @@ Fun fact: By the end of my first year, I had three internships under my belt —
 # Publications:
 
 **"A Grid-Tuned LSSVM and Ensemble Learning Framework for Missing Data Imputation"**  
-*5th Indian ICOM Conference 2025, VIT Vellore, India (Nov 6, 2025)*  
+*5th Indian IEOM Conference 2025, VIT Vellore, India (Nov 6, 2025)*  
 - Developed advanced machine learning framework for handling missing data in large datasets
 - Implemented grid-tuned Least Squares Support Vector Machine with ensemble methods
 
